@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @devananda1604 
-- 👀 I’m interested in coding and robotics
-- 🌱 I’m currently learning B.Tch robotics and automation
+- 👋 Hi, I’m @devananda1604 [DEVA NANDA MENON]
+- 👀 I’m interested in coding and robotics 
+- 🌱 I’m currently learning B.Tch robotics and automation [KARUNYA INSTITUTE OF TECHNOLOGY AND SCIENCES COIMBATORE TAMIL NADU]
 - 💞️ I’m looking to collaborate on more enthusiastic projects
 - 📫 How to reach me through my linkedin
 - 😄 Pronouns: her/she
